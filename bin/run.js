@@ -5,4 +5,7 @@ const chalk = require('chalk')
 // We want to have console output in the CLI app
 /* eslint-disable no-console */
 
-console.log(chalk.red('Mauvais code'))
+
+// console.log(chalk.red(null))
+
+console.log(chalk.green('Bonjour EDL'))
